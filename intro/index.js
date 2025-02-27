@@ -80,7 +80,3 @@ const sayHello = (obj) => console.log(obj.name, obj.age);
 
 
 
-
-
-
-,4
